@@ -1,0 +1,55 @@
+
+™
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(Ì…©‘úÿÿÿÿ8´Ùáå1
+™
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(İÖ‚­ùÿÿÿÿ8´Ùáå1
+“
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¶äãe8´Ùáå1
+”
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(±€ˆÁ8µÙáå1
+™
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(€ê±Õúÿÿÿÿ8µÙáå1
+š
+java:S1120#"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ïù°¶úÿÿÿÿ8µÙáå1
+“
+java:S1120)"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(—ô78µÙáå1
+”
+java:S11201"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(­¶¡8µÙáå1
+t	java:S109 "SAssign this magic number 10 to a well-named constant, and use the constant instead.(æğŒêøÿÿÿÿ8µÙáå1
+š
+java:S1488,"^Immediately return this expression instead of assigning it to the temporary variable "result".(é³ÇîJ$dc59c3cb-99d2-41fb-ba81-eb0b21d3c7a8
+œ
+java:S14882"`Immediately return this expression instead of assigning it to the temporary variable "filtered".(’õÍ­J$31e2507b-04bb-48ed-bdd1-e0765225718f
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Õ–Óˆøÿÿÿÿ8»Ùáå1
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰ÑŒT8¼Ùáå1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õÈ¿í8¼Ùáå1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰§ÛÃşÿÿÿÿ8¼Ùáå1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(›è÷ï8¼Ùáå1
+^
+java:S1106""AMove this left curly brace to the beginning of next line of code.(á¢–¬8¼Ùáå1
+c
+java:S1106("AMove this left curly brace to the beginning of next line of code.(§“½½ûÿÿÿÿ8¼Ùáå1
+c
+java:S11060"AMove this left curly brace to the beginning of next line of code.(º‹Æ±øÿÿÿÿ8¼Ùáå1
+;
+java:S1451"&Add or update the header of this file.8ÃÙáå1
+L
+java:S6212"/Declare this local variable with "var" instead.(±€ˆÁ8ÏÙáå1
+u	java:S122 "TAt most one statement is allowed per line, but 2 statements were found on this line.(æğŒêøÿÿÿÿ8ÛÙáå1
+p	java:S122!"TAt most one statement is allowed per line, but 2 statements were found on this line.(ñŞ¶”8ÛÙáå1
+Q
+java:S6212"/Declare this local variable with "var" instead.(€ê±Õúÿÿÿÿ8ÜÙáå1
+5	java:S121 "Missing curly brace.(æğŒêøÿÿÿÿ8ÜÙáå1
+0	java:S121!"Missing curly brace.(ñŞ¶”8İÙáå1
+L
+java:S6212*"/Declare this local variable with "var" instead.(™Ëèä8ŞÙáå1
+L
+java:S6212+"/Declare this local variable with "var" instead.(ù¤şà8ßÙáå1
+L
+java:S62121"/Declare this local variable with "var" instead.(­¶¡8ßÙáå1
+|	java:S1253"<This block of commented-out lines of code should be removed.(ĞŒÎøÿÿÿÿJ$bd43f288-1e19-4b2b-93d9-09ba688212a4

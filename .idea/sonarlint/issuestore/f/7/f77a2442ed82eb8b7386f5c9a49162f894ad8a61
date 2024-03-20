@@ -1,0 +1,161 @@
+
+‡
+java:S11058"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8š¤†âå1J$26d41cbd-d734-4a92-ac38-d759a2083164
+‡
+java:S1105h"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8œú‹âå1J$5de5087a-902c-429c-af49-f4ccd7886b2c
+a
+java:S1105q"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8Ëƒ‘âå1
+º
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ıÓÕ8˜Ùáå1J$23dec469-6af4-407d-a12c-497356b7679a
+¿
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(«ıŞúÿÿÿÿ8™Ùáå1J$4474fa1a-99b4-4871-a8c0-28ea627dfcd9
+À
+java:S1120"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(š­¨ÿÿÿÿÿ8™Ùáå1J$c933d7bf-41b8-4d16-9fdd-0c770bde119c
+»
+java:S1120"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(‰˜»Ö8™Ùáå1J$faecf039-179e-4d88-b69f-df3554fce343
+À
+java:S1120"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(¿‰£¢ùÿÿÿÿ8™Ùáå1J$184d4f31-f3ef-4d95-885f-8ad35b96cd2b
+»
+java:S1120#"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(—ä–º8™Ùáå1J$d2f03286-ab06-43b1-8fae-818cc4e45df2
+À
+java:S1120$"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(í˜Ëƒşÿÿÿÿ8™Ùáå1J$9a87f7ca-7b99-4549-9c49-fe609af0b608
+º
+java:S1120,"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ó‚Ä8™Ùáå1J$63b7021c-8cf1-4595-9220-176ba2f179ff
+¿
+java:S11202"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(òÌÂóıÿÿÿÿ8™Ùáå1J$85650c5b-e62b-4430-abdb-71c0d8e93123
+¿
+java:S11207"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(öÇ¥«ÿÿÿÿÿ8™Ùáå1J$c9bf5647-98c7-4399-854b-d2f91b5ff478
+À
+java:S11209"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ëá¬íùÿÿÿÿ8¨©Œâå1J$7a49ca8e-3486-4151-a3c3-939f70638492
+»
+java:S1120<"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(Œ¶ú8šÙáå1J$3b1ee871-0ed7-40dd-b892-830c172912f2
+º
+java:S1120F"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ĞµÚí8šÙáå1J$9d015e61-b8e1-403a-a49d-8c3bfcc7e967
+»
+java:S1120H"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(¼½ôÂ8šÙáå1J$01a1cf3c-7303-4c9e-b961-0f0760aa16dd
+À
+java:S1120I"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(¤ææşÿÿÿÿ8šÙáå1J$5baecb2a-c43a-4ba5-a70e-784a14b1f708
+»
+java:S1120N"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(±×å8šÙáå1J$1dad0d80-5b8f-4e5d-b0cb-a78627ac511d
+º
+java:S1120W"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¯Œª8šÙáå1J$cd39abc4-7251-4d8b-bd4f-e88726f8407f
+º
+java:S1120["wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ó¹–‚8šÙáå1J$9a8ef0f3-8b03-431e-96dc-ee590d7f2533
+À
+java:S1120\"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÆÕ—îÿÿÿÿÿ8šÙáå1J$8b79b71b-cba0-4220-86ee-4a97a5445a3b
+¿
+java:S1120f"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(÷Ôµˆøÿÿÿÿ8šÙáå1J$7e123de1-0c33-421f-b272-c1d168d0c962
+»
+java:S1120i"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(¦ä´ˆ8œ¤†âå1J$39bf6c14-d5ed-4b38-93e9-af8d185f4425
+”
+java:S1120p"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¦ò’8Íƒ‘âå1
+•
+java:S1120r"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(§¼Éç8Íƒ‘âå1
+À
+java:S1120{"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(Åù¨Çşÿÿÿÿ8šÙáå1J$ea36246f-e472-4d8f-bac4-821c61ca90d2
+º
+java:S1120|"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(¸®Ã'8›Ùáå1J$f7f747b4-1af4-46f1-8c62-d6d75d853ba8
+À
+java:S1120…"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ö˜î€øÿÿÿÿ8›Ùáå1J$88ff675a-209c-4883-8857-345bebe617b3
+À
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ùÍ¹şşÿÿÿÿ8›Ùáå1J$c2dbc3f6-07c9-451c-b591-fe9181ddb74e
+À
+java:S1120•"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¬ò‡Íûÿÿÿÿ8›Ùáå1J$77d11cc4-1623-498a-bca3-f49ba110b10d
+Á
+java:S1120—"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(µáØéıÿÿÿÿ8›Ùáå1J$d43ace8b-548b-4ebd-acfc-796247341661
+‚
+java:S1213"?Move this static variable to comply with Java Code Conventions.(˜ŒÒ”8›Ùáå1J$60ba972e-b03b-4ba3-aaea-3c807238c5b4
+•	java:S109,"SAssign this magic number 10 to a well-named constant, and use the constant instead.(Ó‚Ä8›Ùáå1J$a1154542-7267-41d5-b4c6-9c52c5e7021c
+”	java:S109<"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Œ¶ú8›Ùáå1J$6efce1f1-8f9b-4de6-9843-fcd41bd3f261
+	java:S881"HExtract this increment or decrement operator into a dedicated statement.(Ã×øùûÿÿÿÿ8Ùáå1J$1f748a15-a4c6-4bcc-bb02-3c55ddd7d590
+ƒ
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(˜ŒÒ”8 Ùáå1J$bbd2155b-2cfc-4cbc-a8e9-df90bb5eb7eb
+a	java:S113"'Add a new line at the end of this file.8¤Ùáå1J$16dfd88a-e99d-4504-b68b-4b7b580dd9c9
+‰
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(ºû¹àúÿÿÿÿ8§Ùáå1J$51a69519-0715-45eb-82ba-08eeb67b5576
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(šäÛşÿÿÿÿ8¨Ùáå1J$943fbfd9-6331-48aa-bd75-a726d89baf4a
+‰
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ñ×™íúÿÿÿÿ8©Ùáå1J$142408eb-7371-4c85-a3ae-f070fd43274f
+„
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£‚÷İ8«Ùáå1J$7775aae0-94aa-4dc6-9765-2712c6e0e62f
+„
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰˜»Ö8¬Ùáå1J$d651b886-fdec-4e27-88fb-a967bbf6e5ba
+‰
+java:S1106""AMove this left curly brace to the beginning of next line of code.(¦³üëûÿÿÿÿ8­Ùáå1J$a29f5fed-5639-49e4-9e42-8c8f5a33cfcf
+„
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(—ä–º8®Ùáå1J$c5e580e2-2e41-478f-a492-c43b25530188
+‰
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(ã¸Ï–øÿÿÿÿ8°Ùáå1J$8fdb43cc-fc0c-42de-95f6-ce94f3c856a6
+„
+java:S11061"AMove this left curly brace to the beginning of next line of code.(ÛèÖØ8²Ùáå1J$c7e47006-cd6f-4b14-af40-9a1f48dbe737
+‰
+java:S11066"AMove this left curly brace to the beginning of next line of code.(Ô¢ò‘ÿÿÿÿÿ8´Ùáå1J$2efb6820-4e6b-4282-b088-32cac95c3616
+‰
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(™Øî‹ûÿÿÿÿ8µÙáå1J$6a55b749-4097-4117-b572-fb36424f44cc
+„
+java:S1106E"AMove this left curly brace to the beginning of next line of code.(™¶ßØ8·Ùáå1J$f45564ad-cfed-44dc-936e-393720217046
+„
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(ë€¯œ8·Ùáå1J$4b29b914-f111-4dd9-97ec-dac2ac12af6e
+„
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(¼½ôÂ8·Ùáå1J$46ecc3a0-78f7-4b72-8ffb-d8d85dd1841b
+„
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(‰³ªÓ8·Ùáå1J$5cefb180-7602-4898-b1dd-b0ea3e154cd5
+„
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(‚¨—£8·Ùáå1J$d1a4d042-7c00-470b-a0db-af99c83bfd75
+‰
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(®•îûşÿÿÿÿ8·Ùáå1J$6a3de3c7-153f-4c87-9517-a19ef3d91ed0
+„
+java:S1106["AMove this left curly brace to the beginning of next line of code.(ó¹–‚8·Ùáå1J$a2807a82-2eaa-43a9-9f56-a2e385a1ed5e
+‰
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(şŒâşÿÿÿÿ8·Ùáå1J$9b8eaca5-fef5-4e4b-b66f-9d65718011f5
+‰
+java:S1106o"AMove this left curly brace to the beginning of next line of code.(İ¢êÍıÿÿÿÿ8·Ùáå1J$a8201aac-4983-4487-8676-c95ff474619a
+ƒ
+java:S1106z"AMove this left curly brace to the beginning of next line of code.(ø‰F8·Ùáå1J$d49b20e7-606b-46ae-a7f7-243d86905695
+‰
+java:S1106{"AMove this left curly brace to the beginning of next line of code.(Åù¨Çşÿÿÿÿ8¸Ùáå1J$92a2f356-527a-4a89-85e7-5ebacc0da922
+…
+java:S1106„"AMove this left curly brace to the beginning of next line of code.(ğÜşŠ8¸Ùáå1J$7e2981d8-749a-4fa0-85cb-6f42f3a4e0f2
+…
+java:S1106Œ"AMove this left curly brace to the beginning of next line of code.(Á»›ê8¸Ùáå1J$e1961024-f18f-4674-8009-552cae96c9ea
+Š
+java:S1106”"AMove this left curly brace to the beginning of next line of code.(êŠáÉûÿÿÿÿ8¸Ùáå1J$519e6438-619c-4e1e-be6f-3912910e1dfa
+…
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(‰ŸŞ–8¸Ùáå1J$d78aee7d-3c99-4b78-8c31-594ac92ce904
+…
+java:S25837"DChange this condition so that it does not always evaluate to "false"(öÇ¥«ÿÿÿÿÿJ$76d521bd-322b-4c34-b864-f242092108b9
+a
+java:S1451"&Add or update the header of this file.8ÇÙáå1J$f2285847-57c6-4c57-ad71-4d324403a641
+q
+java:S2208".Explicitly import the specific classes needed.(Î€ŒÙ8ÈÙáå1J$c52e50ca-b8f4-4c43-9bc3-f9fdede146f7
+‡
+java:S2057	"?Add a "static final long serialVersionUID" field to this class.(ºû¹àúÿÿÿÿ8ÌÙáå1J$0de7c2e0-79b8-455b-bd8c-834e73bd8f1f
+‚
+java:S1258":Add a constructor to the class, or provide default values.(šäÛşÿÿÿÿ8ĞÙáå1J$ea28fa69-35c9-4f4c-a5fb-4982587b30df
+¦
+java:S2972"^Reduce this class from 26 lines to the maximum allowed 25 or externalize it in a public class.(šäÛşÿÿÿÿ8ÑÙáå1J$09e28952-20b3-40fb-84f7-73751f1eeac4
+»
+java:S21597"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(öÇ¥«ÿÿÿÿÿJ$35335e33-f8d6-402f-8470-7980c3f15923
+Œ
+java:S16959"DThrow some other exception here, such as "IllegalArgumentException".(ëá¬íùÿÿÿÿ8É©Œâå1J$f66431b1-334f-4424-a1f8-fc2ff70c6ec1
+w
+java:S6212="/Declare this local variable with "var" instead.(úòâÅùÿÿÿÿ8ÙÙáå1J$ce52ef1f-4c22-4449-93bb-e2c7ae728b7f
+r
+java:S6212G"/Declare this local variable with "var" instead.(ë€¯œ8ŞÙáå1J$e5165eea-0ea7-4073-a3e2-6897aeda2773
+w
+java:S6212g"/Declare this local variable with "var" instead.(Üéó©ÿÿÿÿÿ8âÙáå1J$39be571d-b14a-46e0-9e9a-fea4d2af6d6d
+›	java:S122t"TAt most one statement is allowed per line, but 2 statements were found on this line.(›î¦¿şÿÿÿÿ8äÙáå1J$66311c59-1fd7-4b0f-9f9d-3db8f7b82fa2
+›	java:S122x"TAt most one statement is allowed per line, but 2 statements were found on this line.(„½É”şÿÿÿÿ8äÙáå1J$27381011-4b5b-43cb-9cdb-b2ea1b62be12
+w
+java:S6212y"/Declare this local variable with "var" instead.(ùó›Ìøÿÿÿÿ8åÙáå1J$75c41f04-e9f2-492b-9bed-9e410c1ccf61
+•
+java:S2975”"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(êŠáÉûÿÿÿÿJ$7f88fd6e-81a0-43e4-b7d5-3303b7ddfab8
+{
+java:S1117•"9Rename "tasks" which hides the field declared at line 11.(¬ò‡ÍûÿÿÿÿJ$6bf7603c-358e-43c6-9e01-204fd2920875
+x
+java:S6212•"/Declare this local variable with "var" instead.(¬ò‡Íûÿÿÿÿ8èÙáå1J$6d543a5a-62d9-4de0-ad74-33f40f03a9e8
+s
+java:S6212–"/Declare this local variable with "var" instead.(‰ŸŞ–8èÙáå1J$f2e671ad-f928-4b32-853c-107c5272e445
+Š
+java:S1182”"HUse super.clone() to create and seed the cloned instance to be returned.(êŠáÉûÿÿÿÿJ$6f1b8d99-4615-4990-9903-ae77a53bcf4e
