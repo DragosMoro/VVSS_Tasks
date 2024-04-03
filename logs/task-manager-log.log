@@ -27,3 +27,48 @@
 2024-03-20 14:40:53 INFO  Main:35 - saved data reading
 2024-03-20 14:40:53 INFO  Main:40 - application start
 2024-03-20 14:40:53 INFO  Controller:74 - Main controller initializing
+2024-04-03 17:24:23 INFO  Main:35 - saved data reading
+2024-04-03 17:24:23 INFO  Main:40 - application start
+2024-04-03 17:24:23 INFO  Controller:74 - Main controller initializing
+2024-04-03 17:24:29 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:24:37 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:24:42 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:24:43 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:24:44 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:26:07 INFO  Main:35 - saved data reading
+2024-04-03 17:26:07 INFO  Main:40 - application start
+2024-04-03 17:26:08 INFO  Controller:74 - Main controller initializing
+2024-04-03 17:26:09 INFO  NewEditController:89 - new/edit window initializing
+2024-04-03 17:45:47 INFO  Main:35 - saved data reading
+2024-04-03 17:45:47 INFO  Main:40 - application start
+2024-04-03 17:45:47 INFO  Controller:74 - Main controller initializing
+2024-04-03 17:46:20 INFO  Main:35 - saved data reading
+2024-04-03 17:46:20 INFO  Main:40 - application start
+2024-04-03 17:46:20 INFO  Controller:74 - Main controller initializing
+2024-04-03 17:54:56 INFO  Main:35 - saved data reading
+2024-04-03 17:54:56 INFO  Main:40 - application start
+2024-04-03 17:54:56 INFO  Controller:74 - Main controller initializing
+2024-04-03 18:24:54 ERROR Task:41 - interval < than 1
+2024-04-03 18:24:54 ERROR Task:37 - time below bound
+2024-04-03 18:24:54 ERROR Task:41 - interval < than 1
+2024-04-03 18:27:20 ERROR Task:37 - time below bound
+2024-04-03 18:27:20 ERROR Task:41 - interval < than 1
+2024-04-03 18:28:11 ERROR Task:37 - time below bound
+2024-04-03 18:28:11 ERROR Task:41 - interval < than 1
+2024-04-03 18:28:18 ERROR Task:41 - interval < than 1
+2024-04-03 18:28:18 ERROR Task:37 - time below bound
+2024-04-03 18:28:18 ERROR Task:41 - interval < than 1
+2024-04-03 18:39:37 ERROR Task:37 - time below bound
+2024-04-03 18:39:37 ERROR Task:37 - time below bound
+2024-04-03 18:39:37 ERROR Task:37 - time below bound
+2024-04-03 18:39:37 ERROR Task:41 - interval < than 1
+2024-04-03 18:41:18 ERROR Task:41 - interval < than 1
+2024-04-03 18:41:18 ERROR Task:37 - time below bound
+2024-04-03 18:41:18 ERROR Task:37 - time below bound
+2024-04-03 18:41:18 ERROR Task:37 - time below bound
+2024-04-03 18:41:18 ERROR Task:41 - interval < than 1
+2024-04-03 18:41:57 ERROR Task:41 - interval < than 1
+2024-04-03 18:41:57 ERROR Task:37 - time below bound
+2024-04-03 18:41:57 ERROR Task:37 - time below bound
+2024-04-03 18:41:57 ERROR Task:37 - time below bound
+2024-04-03 18:41:57 ERROR Task:41 - interval < than 1

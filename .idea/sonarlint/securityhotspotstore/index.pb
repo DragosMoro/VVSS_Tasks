@@ -19,3 +19,17 @@ f
 6src/main/java/tasks/controller/TaskInfoController.java,9\9\99b511d75f317e72fa25245b579d48cb3d074646
 R
 "src/main/java/tasks/view/Main.java,a\4\a4e952c1a4765c6cf9a337826a42d32c3f95db7f
+S
+#src/main/java/tasks/model/Task.java,6\6\665dec39384a747ccf12fd544bf02f4a3d18695a
+W
+'src/main/java/tasks/model/TaskList.java,f\c\fc2a13256c261b5abd00e9188b5f42e29358bf6e
+^
+.src/main/java/tasks/model/TasksOperations.java,4\f\4f01b9f8917f794cdf589fb86ab1f8dec2bc64a1
+a
+1src/test/java/tasks/services/DateServiceTest.java,e\b\eb67f05314178cc6b3a1e4f981a808f271e00c26
+W
+'src/test/java/tasks/model/TaskTest.java,3\1\31324894a484d06adcd87a923fb98e2c49cb815e
+i
+9src/test/java/tasks/controller/NewEditControllerTest.java,3\7\37c5227067038b24989aac026b3d5deb3328aa53
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

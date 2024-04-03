@@ -186,7 +186,7 @@ public class NewEditController {
         return result;
     }
 
-    private Task makeTask(){
+    public Task makeTask(){
         Task result;
         String newTitle = fieldTitle.getText();
         Date startDateWithNoTime = dateService.getDateValueFromLocalDate(datePickerStart.getValue());//ONLY date!!without time
