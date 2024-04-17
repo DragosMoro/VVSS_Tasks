@@ -72,7 +72,7 @@ class TaskTest {
         }
 
         @ParameterizedTest
-        @ValueSource(ints = {0, -1}) // BVA False for time
+        @ValueSource(ints = {0, -1})
         @DisplayName("BVA Invalid Test Case for Time")
         void testInvalidBVATaskCreationForTime(int timeOffset) {
             Date invalidStartDate = createDate(1970, Calendar.JANUARY, 1, 0, timeOffset);

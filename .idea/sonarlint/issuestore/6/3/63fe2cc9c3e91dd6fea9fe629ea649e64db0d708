@@ -1,10 +1,10 @@
 
-g
-java:S1301O"KReplace this "switch" statement by "if" statements to increase readability.(¯ßğ8íù£ê1
-=	java:S131O""Add a default case to this switch.(¯ßğ8‘ù£ê1
-X	java:S125Z"<This block of commented-out lines of code should be removed.(Ô€‚’8Ÿ‘ù£ê1
-W
-java:S2209k"5Change this instance-reference to a static reference.(¹†³¹şÿÿÿÿ8¡‘ù£ê1
-W
-java:S2209q"5Change this instance-reference to a static reference.(éÊº²üÿÿÿÿ8¢‘ù£ê1
-M	java:S106Î"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8±‘ù£ê1
+
+java:S1301O"KReplace this "switch" statement by "if" statements to increase readability.(¯ßğ8íù£ê1J$6b788e96-0206-4e4f-8cc2-1dd95b4aa1dd
+c	java:S131O""Add a default case to this switch.(¯ßğ8‘ù£ê1J$cc8c9ffd-ed0e-47b0-9614-0a1d3a5ceb3c
+~	java:S125Z"<This block of commented-out lines of code should be removed.(Ô€‚’8Ÿ‘ù£ê1J$ab20b411-d309-4cbe-9f29-7f3923be24e3
+}
+java:S2209k"5Change this instance-reference to a static reference.(¹†³¹şÿÿÿÿ8¡‘ù£ê1J$0b299f25-902d-441c-a027-93a78e950a4c
+}
+java:S2209q"5Change this instance-reference to a static reference.(éÊº²üÿÿÿÿ8¢‘ù£ê1J$558a7e70-9527-425b-861b-3b7656b9e6ac
+s	java:S106Î"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8±‘ù£ê1J$9880b7e5-8e6b-49a0-b075-81a75a4f47d5

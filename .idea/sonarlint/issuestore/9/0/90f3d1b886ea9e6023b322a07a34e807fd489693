@@ -1,11 +1,11 @@
 
 k
-java:S1066*"/Merge this if statement with the enclosing one.(ÈĞÚ¨J$45139cec-b23b-44fa-867a-d3e02559ea3a
+java:S1066*"/Merge this if statement with the enclosing one.(ÈĞÚ¨J$9ff9ec45-2360-46ee-9909-5920cd0cfcef
 
-java:S21844"FCast one of the operands of this multiplication operation to a "long".(Ãš¬³øÿÿÿÿ8Şığáå1J$33570df4-cc15-4bae-80ca-61664997dae3
+java:S21844"FCast one of the operands of this multiplication operation to a "long".(Ãš¬³øÿÿÿÿ8Şığáå1J$aa2fa274-28cd-43ee-bd7d-4ed60cd469d8
 
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“–ışJ$07582408-d834-4e7f-b9f4-e6cc311d6ec1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“–ışJ$1d21ee13-d1b3-4ecc-aed2-55f2de9e6bcf
 š
-java:S21426"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$3ba28490-10ee-40b2-9585-8f60019da9db
+java:S21426"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$28aba685-4b22-4e67-af0c-77f65fa68526
 h
-java:S1602>",Remove useless curly braces around statement(ÃÉş©J$9ad48204-fb23-449e-b575-80f3c554f9aa
+java:S1602>",Remove useless curly braces around statement(ÃÉş©J$97f9ac48-b348-4b63-8621-bb781663c83f
