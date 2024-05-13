@@ -18,10 +18,6 @@ class TaskTest {
         return calendar.getTime();
     }
 
-    @Nested
-    @DisplayName("ECP Tests")
-    class ECPTasks {
-
         @Test
         @DisplayName("ECP Valid Test Case - Positive Time ")
         @Tag("ECP")
@@ -55,11 +51,6 @@ class TaskTest {
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
             assertThrows(IllegalArgumentException.class, () -> new Task("Test", validStartDate, validEndDate, 0));
         }
-    }
-
-    @Nested
-    @DisplayName("BVA Tests")
-    class BVATasks {
 
         @ParameterizedTest
         @ValueSource(ints = {1, 60})
@@ -98,5 +89,4 @@ class TaskTest {
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
             assertThrows(IllegalArgumentException.class, () -> new Task("Test", validStartDate, validEndDate, interval));
         }
-    }
 }
