@@ -39,3 +39,5 @@ _
 /src/test/java/tasks/model/TaskUnitLab4Test.java,7\f\7f0981033a007437a304976afe9633a3484beed4
 <
 01_Tasks.iml,b\d\bdb3226c332de5405059c4c6c04ebd0397df388f
+N
+src/main/java/module-info.java,1\c\1c89a5491fbfda3fb050196d6a239f20200296e7
