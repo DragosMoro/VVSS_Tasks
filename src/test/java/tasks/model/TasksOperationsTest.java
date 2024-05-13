@@ -59,6 +59,7 @@ class TasksOperationsTest {
     @Test
     void Test2() {
         //arrange
+        tasksOperations.tasks.clear();
         //act
         ArrayList result = (ArrayList) tasksOperations.incoming(null,null);
         //assert
