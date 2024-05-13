@@ -1,0 +1,9 @@
+
+d
+java:S1182¶"HUse super.clone() to create and seed the cloned instance to be returned.(Óıôîûÿÿÿÿ
+o
+java:S2975¶"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Óıôîûÿÿÿÿ
+C
+java:S1144Œ",Remove this unused private "setTask" method.(İŠÒ
+A
+java:S1948/"&Make "last" transient or serializable.(š§æäùÿÿÿÿ

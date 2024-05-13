@@ -1,0 +1,37 @@
+
+L
+java:S2093J"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
+L
+java:S2093V"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ğœê†úÿÿÿÿ
+^	java:S125¤"<This block of commented-out lines of code should be removed.(èÄ»ñşÿÿÿÿ8¼Ë¿‚/
+c
+java:S2259\"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ8¼Ë¿‚/
+L
+java:S2093z"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
+D
+java:S1659ã"!Declare "end" on a separate line.(ÍôÁÑıÿÿÿÿ8¼Ë¿‚/
+^	java:S125È"<This block of commented-out lines of code should be removed.(À›¸Öûÿÿÿÿ8¼Ë¿‚/
+M
+java:S2093†"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
+c
+java:S2259P"AA "NullPointerException" could be thrown; "fos" is nullable here.(æŒÕ®ùÿÿÿÿ8¼Ë¿‚/
+F
+java:S1659µ"#Declare "hours" on a separate line.(ÚåÏ¾üÿÿÿÿ8¼Ë¿‚/
+u
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œÂÁñøÿÿÿÿ8¼Ë¿‚/
+H
+java:S1659µ"%Declare "minutes" on a separate line.(ÚåÏ¾üÿÿÿÿ8¼Ë¿‚/
+H
+java:S1659µ"%Declare "seconds" on a separate line.(ÚåÏ¾üÿÿÿÿ8¼Ë¿‚/
+B
+java:S1659Â"Declare "j" on a separate line.(Ù é®şÿÿÿÿ8¼Ë¿‚/
+‚
+java:S1192N"eDefine a constant instead of duplicating this literal "IO exception reading or writing file" 4 times.(ÌÔü¦8¼Ë¿‚/
+H
+java:S2885"-Make "simpleDateFormat" an instance variable.(ËÒÌıøÿÿÿÿ
+L
+java:S20931"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼Ë¿‚/
