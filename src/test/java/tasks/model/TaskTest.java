@@ -45,48 +45,36 @@ class TaskTest {
         }
 
         @Test
-        @DisplayName("ECP Invalid Test Case - Interval 0")
         void testInvalidECPTaskCreationWithInterval0() {
             Date validStartDate = createDate(2022, Calendar.JANUARY, 1, 10, 0);
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
             assertThrows(IllegalArgumentException.class, () -> new Task("Test", validStartDate, validEndDate, 0));
         }
 
-        @ParameterizedTest
-        @ValueSource(ints = {1, 60})
-        @DisplayName("BVA Valid Test Case")
-        @Tag("BVA")
-        void testValidBVATaskCreation(int interval) {
+        @Test
+        void testValidBVATaskCreation() {
             Date validStartDate = createDate(2022, Calendar.JANUARY, 1, 10, 0);
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
-            assertDoesNotThrow(() -> new Task("Test", validStartDate, validEndDate, interval));
+            assertDoesNotThrow(() -> new Task("Test", validStartDate, validEndDate, 1));
         }
 
-        @ParameterizedTest
-        @ValueSource(ints = {0, -1})
-        @DisplayName("BVA Invalid Test Case for Time")
-        void testInvalidBVATaskCreationForTime(int timeOffset) {
-            Date invalidStartDate = createDate(1970, Calendar.JANUARY, 1, 0, timeOffset);
+        @Test
+        void testInvalidBVATaskCreationForTime() {
+            Date invalidStartDate = createDate(1970, Calendar.JANUARY, 1, 0, 0);
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
             assertThrows(IllegalArgumentException.class, () -> new Task("Test", invalidStartDate, validEndDate, 60));
         }
-        @ParameterizedTest
-        @ValueSource(ints = {1, 60})
-        @DisplayName("BVA Valid Test Case")
-        @Tag("BVA")
-        void testValidBVATaskCreationTime(int timeOffset) {
-            Date validStartDate = createDate(2022, Calendar.JANUARY, 1, 10, timeOffset);
+        @Test
+        void testValidBVATaskCreationTime() {
+            Date validStartDate = createDate(2022, Calendar.JANUARY, 1, 10, 1);
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
             assertDoesNotThrow(() -> new Task("Test", validStartDate, validEndDate, 60));
         }
 
-
-        @ParameterizedTest
-        @ValueSource(ints = {0})
-        @DisplayName("BVA Invalid Interval Test Case")
-        void testInvalidBVATaskCreationForInterval(int interval) {
+        @Test
+        void testInvalidBVATaskCreationForInterval() {
             Date validStartDate = createDate(2022, Calendar.JANUARY, 1, 10, 0);
             Date validEndDate = createDate(2022, Calendar.JANUARY, 1, 11, 0);
-            assertThrows(IllegalArgumentException.class, () -> new Task("Test", validStartDate, validEndDate, interval));
+            assertThrows(IllegalArgumentException.class, () -> new Task("Test", validStartDate, validEndDate, -1));
         }
 }

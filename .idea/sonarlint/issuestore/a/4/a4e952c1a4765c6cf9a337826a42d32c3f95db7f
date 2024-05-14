@@ -1,14 +1,14 @@
 
+ 
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8¡É¸÷1J$f6769ad2-6b8e-4837-a623-a4865bbeba94
+
+java:S1104 "ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8¡É¸÷1J$394d99fc-eb8d-447f-8c72-10b6efc175c9
 z
-java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8¡É¸÷1
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8¢É¸÷1J$ee4ccf1f-8242-4e12-b10c-51a71d4e40cd
 w
-java:S1104 "ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8¡É¸÷1
-T
-java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8¢É¸÷1
-Q
-java:S1444 "4Make this "public static savedTasksFile" field final(¼Çü¦8¢É¸÷1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…8ºÉ¸÷1
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÕÈ€8ºÉ¸÷1
-X	java:S125."<This block of commented-out lines of code should be removed.(€â³Ö8ÕÉ¸÷1
+java:S1444 "4Make this "public static savedTasksFile" field final(¼Çü¦8¢É¸÷1J$34985b99-eb8a-45ec-8d98-5fecb4500e6b
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…8ºÉ¸÷1J$1871a842-5646-4b67-a88e-ce43f766783c
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÕÈ€8ºÉ¸÷1J$b1c84645-04a6-435c-a9f0-9db915317601
+~	java:S125."<This block of commented-out lines of code should be removed.(€â³Ö8ÕÉ¸÷1J$0ccbabb6-f5d8-449b-94b1-26da045470d4
 h
-java:S1602=",Remove useless curly braces around statement(çöÔˆJ$949c89e6-336c-4dfe-a839-78ec9d168a34
+java:S1602=",Remove useless curly braces around statement(çöÔˆJ$33b019d0-827d-410e-a498-64289d016de7
